@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@700&family=Roboto+Slab:wght@200;700&display=swap');
+
+
+
+body {
+    background: white;
+}
+
+.h1 {
+    margin-right: 80%;
+    font-size: 40px
+}
+
+.b-4 {
+    margin-right: 5%;
+}
+
+.b-1 {
+    margin-right: 15%;
+}
+
+.b-2 {
+    margin-right: 10.7%;
+}
+
+.b-3 {
+    margin-right: 10.7%;
+}
